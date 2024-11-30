@@ -6,6 +6,8 @@
  
  Goal: My plan is to see my listening habits is wheter changing by time of the day and week by week by my mood. Also, find potential new similar songs.
 
- Once I figure out the data, I will use charts and graphs to describe the data.
+ Analysis Techniques: 
  
-
+ Ectracting the data
+ Understanding statistics with EDA
+ Visualizing data
